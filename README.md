@@ -6,8 +6,8 @@ This project focuses on developing a dynamic and interactive dashboard for analy
 
 ## Week-over-Week (WoW) Changes
  - **Revenue:** Increased by 28.8%.
- - **Total Transaction Amount & Count:**  Increased by xx% & xx%.
- - **Customer Count:**  Increased by xx%.
+ - **Total Transaction Amount & Count:**  Increased by 33.5%  & 9.09%.
+ 
 
 ## Year-to-Date (YTD) Overview
  - **Overall Revenue:** $57 million.
