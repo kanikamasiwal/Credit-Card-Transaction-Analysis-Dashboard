@@ -21,7 +21,7 @@ This project focuses on developing a dynamic and interactive dashboard for analy
 ## Key Features
  - **Data Integration:** Integrates multiple data sources (e.g., transaction data) using SQL for data extraction and transformation.
  - **Visualization:** Utilizes Power BI for creating interactive charts, graphs, and dashboards that depict credit card usage patterns and trends.
- - ** Dashboard Components:**
+ - **Dashboard Components:**
       - **Transaction Trends:** Visualizes transaction volume over time, average transaction amounts, and popular spending categories.
       - **Customer Segmentation:** Analyzes customer demographics and spending behaviors to identify key customer segments.
       - **Performance Metrics:** Tracks key performance indicators (KPIs) such as card activation rates, utilization rates, and customer acquisition trends.
@@ -50,7 +50,7 @@ This project focuses on developing a dynamic and interactive dashboard for analy
      
  ## Resources Used
 
- - **Data Sources:** he dataset used in this repository can be found [here].(https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard/blob/main/README.md)
- - **Inspiration:**  This project was inspired by the YouTube tutorial "[POWER BI Full PROJECT for Data Analysis with Practical Guide | End to End Power BI Dashboard Project]"(https://www.youtube.com/watch?v=8XoDVwWdaqI) by Rishabh Mishra.
+ - **Data Sources:** he dataset used in this repository can be found [here](https://github.com/rishabhnmishra/Credit_Card_Financial_Dashboard/blob/main/README.md).
+ - **Inspiration:**  This project was inspired by the YouTube tutorial "[POWER BI Full PROJECT for Data Analysis with Practical Guide | End to End Power BI Dashboard Project](https://www.youtube.com/watch?v=8XoDVwWdaqI)" by Rishabh Mishra.
 
 
