@@ -14,7 +14,7 @@ This project focuses on developing a dynamic and interactive dashboard for analy
  - **Total Interest:** $8 million.
  - **Total Transaction Amount:** $46 million.
  - **Gender Contribution to Revenue:** Male customers contributed $31 million, female customers contributed $26 million.
- - **Credit Card Contribution: ** Blue & Silver credit cards contributed to 93% of overall transactions.
+ - **Credit Card Contribution:** Blue & Silver credit cards contributed to 93% of overall transactions.
  - **Top Contributing States:** TX, NY & CA contributed to 68% of total transactions.
  - **Overall Activation Rate:** 57.5%.
    
